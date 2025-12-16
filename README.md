@@ -1,2 +1,2 @@
 # omni
-omni images
+images for omni
